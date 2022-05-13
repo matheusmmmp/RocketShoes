@@ -64,10 +64,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/matheusmmmp/desafio-03>
+$ git clone <https://github.com/matheusmmmp/RocketShoes>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd desafio-03
+$ cd RocketShoes
 
 # Instale as dependências
 $ yarn
