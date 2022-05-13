@@ -45,8 +45,8 @@ Para realizar esse desafio, foi utilizado um template do GitHub.
 O template está disponível na seguinte URL: [Template Aplicação](https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras)
 
 <h1 align="center">
-  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/168379672-f714a747-d79e-4cdc-aed5-d95ab5446355.PNG" style="width: 445px;" />
-  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/168379682-74fd5c66-5d88-464e-b50f-ad1f4309296e.PNG" style="width: 429px;" />
+  <img alt="Imagem Demonstrativa 1" title="#Img1" src="https://user-images.githubusercontent.com/33897566/168379672-f714a747-d79e-4cdc-aed5-d95ab5446355.PNG" style="width: 392px;" />
+  <img alt="Imagem Demonstrativa 2" title="#Img2" src="https://user-images.githubusercontent.com/33897566/168379682-74fd5c66-5d88-464e-b50f-ad1f4309296e.PNG" style="width: 380px;" />
 </h1>
 
 
